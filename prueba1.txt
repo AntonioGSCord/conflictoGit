@@ -1,1 +1,1 @@
-la prueba 1
+¡Este es un cambio diferente en la rama conflicto-caracteristicas
