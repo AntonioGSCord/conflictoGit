@@ -1,1 +1,2 @@
-¡Este es un cambio diferente en la rama conflicto-caracteristicas
+Este es el cambio en la rama principal
+
